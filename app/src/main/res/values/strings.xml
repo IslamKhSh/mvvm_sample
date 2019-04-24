@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM Sample</string>
+    <string name="by">By:</string>
+    <string name="long_click_menu_title">Go to:</string>
+    <string name="meue_item_repo">Repository</string>
+    <string name="meue_item_repo_owner">Repository Owner</string>
+</resources>
